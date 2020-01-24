@@ -1,15 +1,6 @@
 import streamlit as st
-import os
-import sys
-import importlib.util
-import impyute
-import csv
 import pandas as pd
-import seaborn as sns
 import numpy as np
-import matplotlib.pyplot as plt
-from string import ascii_letters
-import statsmodels.api as sm
 import pickle
 
 st.title('Preterm labor predictor')
