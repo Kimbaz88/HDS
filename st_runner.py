@@ -40,7 +40,7 @@ var_list3 = var_list2.astype(int)
 full_input = var_list3
 
 
-pkl_filename = 'basic_logreg.pkl'
+pkl_filename = 'lgbm.pkl'
   
 with open (pkl_filename,'rb') as file:
     pickle_model = pickle.load(file)
