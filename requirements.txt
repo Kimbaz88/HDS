@@ -2,3 +2,4 @@ streamlit
 lightgbm
 numpy
 pandas
+sklearn
