@@ -1,5 +1,5 @@
 ## Insight App 
-### Part of my project at Insight Data Science was to deploy an app that showcased my preterm labor risk prediction tool.
+### Part of my project at Insight Data Science was to deploy an app that showcased P2, my preterm labor risk prediction tool.
 I chose to deploy my app using Streamlit and to host it on Heroku.
 
 My app can be found at: https://preterm-predictor.herokuapp.com.
